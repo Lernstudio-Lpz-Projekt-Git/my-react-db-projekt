@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React mit Datenbank
+          Learn React mit Herrn Ates
         </a>
       </header>
     </div>
