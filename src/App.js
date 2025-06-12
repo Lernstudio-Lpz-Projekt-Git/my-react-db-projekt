@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React mit Herrn Ates
+          Learn React am Donnerstag
         </a>
       </header>
     </div>
